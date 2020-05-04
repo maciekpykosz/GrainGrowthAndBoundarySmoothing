@@ -6,10 +6,10 @@ Project created using Python, NumPy, Tkinter.
 GUI look:
 
 1. Growth:
-![GrainGrowth](https://github.com/maciekpykosz/CellularAutomata2D-TheGameOfLife/blob/master/growth.jpg)
+![GrainGrowth](https://github.com/maciekpykosz/GrainGrowthAndBoundarySmoothing/blob/master/growth.jpg)
 
 2. Smoothing:
-![GrainBoundarySmoothing](https://github.com/maciekpykosz/CellularAutomata2D-TheGameOfLife/blob/master/smoothing.jpg)
+![GrainBoundarySmoothing](https://github.com/maciekpykosz/GrainGrowthAndBoundarySmoothing/blob/master/smoothing.jpg)
 
 3. Energy:
-![GrainEnergy](https://github.com/maciekpykosz/CellularAutomata2D-TheGameOfLife/blob/master/energy.jpg)
+![GrainEnergy](https://github.com/maciekpykosz/GrainGrowthAndBoundarySmoothing/blob/master/energy.jpg)
